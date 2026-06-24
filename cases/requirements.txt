@@ -1,0 +1,14 @@
+# Lê as variáveis de ambiente do arquivo .env (credenciais do banco)
+python-dotenv
+
+# Driver de conexão Python com banco de dados MySQL
+mysql-connector-python
+
+# Manipulação e análise de dados em DataFrames
+pandas
+
+# Execução de notebooks interativos (.ipynb) no VS Code
+jupyter
+
+# Kernel do Python para execução no Jupyter/VS Code
+ipykernel
